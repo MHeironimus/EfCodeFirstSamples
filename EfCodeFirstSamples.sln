@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirstDefaultConventions", "EfCodeFirstDefaultConventions\EfCodeFirstDefaultConventions.csproj", "{C6FDA3AA-BD96-476F-93B1-A7179ABDE897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirstCustomConventions", "EfCodeFirstCustomConventions\EfCodeFirstCustomConventions.csproj", "{6BFBDE09-7661-4753-8E0B-E74F7833B4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirstDataAnnotations", "EfCodeFirstDataAnnotations\EfCodeFirstDataAnnotations.csproj", "{DBCB4E2D-E687-417C-AF52-8AAFF9E0D2AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirstFluentApi", "EfCodeFirstFluentApi\EfCodeFirstFluentApi.csproj", "{115D95F0-FC0D-4CBA-8E8B-2D19CF4F35C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ForeignKeyPropertyExample|Any CPU = ForeignKeyPropertyExample|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FDA3AA-BD96-476F-93B1-A7179ABDE897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FDA3AA-BD96-476F-93B1-A7179ABDE897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FDA3AA-BD96-476F-93B1-A7179ABDE897}.ForeignKeyPropertyExample|Any CPU.ActiveCfg = ForeignKeyPropertyExample|Any CPU
+		{C6FDA3AA-BD96-476F-93B1-A7179ABDE897}.ForeignKeyPropertyExample|Any CPU.Build.0 = ForeignKeyPropertyExample|Any CPU
+		{C6FDA3AA-BD96-476F-93B1-A7179ABDE897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FDA3AA-BD96-476F-93B1-A7179ABDE897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFBDE09-7661-4753-8E0B-E74F7833B4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFBDE09-7661-4753-8E0B-E74F7833B4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFBDE09-7661-4753-8E0B-E74F7833B4A3}.ForeignKeyPropertyExample|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFBDE09-7661-4753-8E0B-E74F7833B4A3}.ForeignKeyPropertyExample|Any CPU.Build.0 = Debug|Any CPU
+		{6BFBDE09-7661-4753-8E0B-E74F7833B4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFBDE09-7661-4753-8E0B-E74F7833B4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCB4E2D-E687-417C-AF52-8AAFF9E0D2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB4E2D-E687-417C-AF52-8AAFF9E0D2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB4E2D-E687-417C-AF52-8AAFF9E0D2AD}.ForeignKeyPropertyExample|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB4E2D-E687-417C-AF52-8AAFF9E0D2AD}.ForeignKeyPropertyExample|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB4E2D-E687-417C-AF52-8AAFF9E0D2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB4E2D-E687-417C-AF52-8AAFF9E0D2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115D95F0-FC0D-4CBA-8E8B-2D19CF4F35C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115D95F0-FC0D-4CBA-8E8B-2D19CF4F35C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115D95F0-FC0D-4CBA-8E8B-2D19CF4F35C7}.ForeignKeyPropertyExample|Any CPU.ActiveCfg = Release|Any CPU
+		{115D95F0-FC0D-4CBA-8E8B-2D19CF4F35C7}.ForeignKeyPropertyExample|Any CPU.Build.0 = Release|Any CPU
+		{115D95F0-FC0D-4CBA-8E8B-2D19CF4F35C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115D95F0-FC0D-4CBA-8E8B-2D19CF4F35C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
